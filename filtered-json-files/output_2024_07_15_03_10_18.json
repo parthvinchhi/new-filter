@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "c078eb50-5c9b-45d8-ba22-fc9b2d4cb58e",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_01",
+      "store_id": "FR6I",
+      "xcall_id": "1e54ee9b-5012-45b0-84ef-e032b52080d6",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=1e54ee9b-5012-45b0-84ef-e032b52080d6, PID=1, SID=1, VID=2"
+    },
+    "store_id": "FR6I",
+    "cart_id": "cart_01",
+    "created_at": "2024-07-15T14:28:55.548562Z",
+    "error_code": "14"
+  },
+  {
+    "id": "96a96cc6-ee90-42eb-98a0-444f03e553fe",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_01",
+      "store_id": "FR6I",
+      "xcall_id": "1e54ee9b-5012-45b0-84ef-e032b52080d6",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=1e54ee9b-5012-45b0-84ef-e032b52080d6, PID=0, SID=1, VID=1"
+    },
+    "store_id": "FR6I",
+    "cart_id": "cart_01",
+    "created_at": "2024-07-15T14:28:43.848573Z",
+    "error_code": "14"
+  },
+  {
+    "id": "647d8d03-4bb0-4691-8f02-8dfcd22841a1",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=36, SID=1, VID=49"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:51:32.772306Z",
+    "error_code": "14"
+  },
+  {
+    "id": "815a66f6-1df4-43bf-a59e-3a158f3c4a7e",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=35, SID=3, VID=48"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:51:29.063645Z",
+    "error_code": "14"
+  },
+  {
+    "id": "b4b346ec-9fc9-4933-b9c7-1933caba82fa",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=35, SID=2, VID=47"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:51:27.499163Z",
+    "error_code": "14"
+  },
+  {
+    "id": "9beb3dd4-5215-414b-b0e8-16e4f2ffbee6",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=35, SID=1, VID=46"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:51:25.058479Z",
+    "error_code": "14"
+  },
+  {
+    "id": "9f3036b3-bfe2-4b5a-b555-4f5db9c5b79c",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=34, SID=1, VID=45"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:51:20.752278Z",
+    "error_code": "14"
+  },
+  {
+    "id": "d164b0fe-d239-4494-9e89-36dd01288422",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=33, SID=1, VID=44"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:51:16.900086Z",
+    "error_code": "14"
+  },
+  {
+    "id": "b51ce098-5a41-4955-861b-0145b3e18c02",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=32, SID=1, VID=43"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:50:57.979689Z",
+    "error_code": "14"
+  },
+  {
+    "id": "e1a39b1c-756f-4adf-aa7b-918ba7828067",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=31, SID=2, VID=42"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:50:54.658351Z",
+    "error_code": "14"
+  },
+  {
+    "id": "6d106a10-9acd-4ad8-8baf-275be368ce96",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=31, SID=1, VID=41"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:50:49.990598Z",
+    "error_code": "14"
+  },
+  {
+    "id": "2b8ace6f-66a4-4736-8d06-989a96023fd5",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=30, SID=1, VID=40"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:50:47.83458Z",
+    "error_code": "14"
+  },
+  {
+    "id": "d7c36108-9dee-4bf0-a49d-2fe1aff5b00f",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=29, SID=1, VID=39"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:50:40.112672Z",
+    "error_code": "14"
+  },
+  {
+    "id": "63e5e72d-94e9-4088-9ddd-469cf06a5308",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=28, SID=1, VID=38"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:50:33.38341Z",
+    "error_code": "14"
+  },
+  {
+    "id": "43a689bf-869d-4045-b8a1-8c114ae978ee",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=27, SID=1, VID=37"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:50:25.997181Z",
+    "error_code": "14"
+  },
+  {
+    "id": "ad3d44c3-372e-45ca-a9b5-f4b93632311f",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=26, SID=1, VID=36"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:50:21.239155Z",
+    "error_code": "14"
+  },
+  {
+    "id": "6b49dbc3-8300-4d58-ae70-ce027a44bfef",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=25, SID=1, VID=35"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:50:02.78328Z",
+    "error_code": "14"
+  },
+  {
+    "id": "ed710d75-8626-4f44-a57f-3fb7dd466656",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=24, SID=1, VID=34"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:47:16.220363Z",
+    "error_code": "14"
+  },
+  {
+    "id": "00723083-81c5-43cd-a2e6-b753ac480aa3",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=23, SID=1, VID=33"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:43:15.178272Z",
+    "error_code": "14"
+  },
+  {
+    "id": "354393f5-08a3-42d5-a7a7-5adafb597d6f",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=22, SID=1, VID=32"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:42:33.637085Z",
+    "error_code": "14"
+  },
+  {
+    "id": "56ab0b06-48f6-42cd-90a1-15a71f13198d",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=21, SID=1, VID=31"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:42:27.227647Z",
+    "error_code": "14"
+  },
+  {
+    "id": "af7392b1-2e22-4caa-ac03-133dc1d07577",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=20, SID=2, VID=30"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:42:24.891681Z",
+    "error_code": "14"
+  },
+  {
+    "id": "b27740b8-7632-49a3-a226-4527e8c848f8",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=20, SID=1, VID=29"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:42:23.228568Z",
+    "error_code": "14"
+  },
+  {
+    "id": "a6051f5e-8258-4ff8-9bb9-456f231ac436",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=19, SID=1, VID=28"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:41:01.510281Z",
+    "error_code": "14"
+  },
+  {
+    "id": "1aa585a6-43bf-44c7-a529-a8fc5fc9106a",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=18, SID=2, VID=27"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:40:08.670342Z",
+    "error_code": "14"
+  },
+  {
+    "id": "face9f45-ffc3-4dd2-88e7-44be554bd7fe",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=18, SID=1, VID=26"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:40:00.813122Z",
+    "error_code": "14"
+  },
+  {
+    "id": "5e019a47-1798-4341-91ca-8f4c8891618d",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=17, SID=1, VID=25"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:38:50.584308Z",
+    "error_code": "14"
+  },
+  {
+    "id": "be52b66c-34f3-44af-a39c-864937744eff",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=16, SID=1, VID=24"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:38:35.355018Z",
+    "error_code": "14"
+  },
+  {
+    "id": "e752f06b-6926-4b5b-bb5f-7dcdee756c1e",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=15, SID=1, VID=23"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:38:28.711872Z",
+    "error_code": "14"
+  },
+  {
+    "id": "4d81a1b0-28b3-4327-883e-42dc4d0a3cb2",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=14, SID=2, VID=22"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:38:05.392435Z",
+    "error_code": "14"
+  },
+  {
+    "id": "b1954328-00fa-4c86-a5ff-4c0befa2268a",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=14, SID=1, VID=21"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:37:58.982348Z",
+    "error_code": "14"
+  },
+  {
+    "id": "0b29dd31-1aba-4f35-84f6-b892be903d77",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=13, SID=2, VID=20"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:35:10.231366Z",
+    "error_code": "14"
+  },
+  {
+    "id": "93d2aadc-1f1d-4e57-a43a-8a2306a36e9c",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=13, SID=1, VID=19"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:35:02.879621Z",
+    "error_code": "14"
+  },
+  {
+    "id": "ce299a13-b4ea-4fd8-9488-e1e7adbeaec3",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=12, SID=2, VID=18"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:33:48.709007Z",
+    "error_code": "14"
+  },
+  {
+    "id": "a84bd429-5c3e-4fa2-957e-aefae6a8cc9d",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=12, SID=1, VID=17"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:33:46.94495Z",
+    "error_code": "14"
+  },
+  {
+    "id": "f4e48709-8e4e-4be6-b88c-d55393202e3d",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=10, SID=1, VID=15"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:33:33.702905Z",
+    "error_code": "14"
+  },
+  {
+    "id": "f2e2608d-0d20-48b2-a541-6177a649385d",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=9, SID=1, VID=14"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:33:29.187065Z",
+    "error_code": "14"
+  },
+  {
+    "id": "d5889fc0-3c2d-4318-9942-147e5fd28e8b",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=8, SID=1, VID=13"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:33:25.436983Z",
+    "error_code": "14"
+  },
+  {
+    "id": "8a4ee3f8-576e-4888-8d4c-4eccf1c169be",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=7, SID=1, VID=12"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:33:22.889097Z",
+    "error_code": "14"
+  },
+  {
+    "id": "468c8982-055f-4e0f-8df0-219bf720d718",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=6, SID=1, VID=11"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:33:15.573985Z",
+    "error_code": "14"
+  },
+  {
+    "id": "b424ff0e-5cbd-4b3f-94b6-c45f81fe1dfb",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=5, SID=1, VID=10"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:32:57.578998Z",
+    "error_code": "14"
+  },
+  {
+    "id": "a96769eb-7446-4e31-a68e-d041b7791b31",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=4, SID=2, VID=9"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:32:54.845454Z",
+    "error_code": "14"
+  },
+  {
+    "id": "b3db5f11-366c-40b0-9091-04b8fbc281b8",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=4, SID=1, VID=8"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:32:52.708063Z",
+    "error_code": "14"
+  },
+  {
+    "id": "fb66ad1c-58e0-4852-b7db-b461017758cb",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=3, SID=1, VID=7"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:32:40.816046Z",
+    "error_code": "14"
+  },
+  {
+    "id": "756d99fd-f1dc-4338-953e-e1fe6de6fdfd",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=2, SID=2, VID=6"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:32:37.748341Z",
+    "error_code": "14"
+  },
+  {
+    "id": "8ff90168-da65-4e35-953b-cce67b8e3c4a",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=2, SID=1, VID=5"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:32:34.237699Z",
+    "error_code": "14"
+  },
+  {
+    "id": "d0675c3b-a584-4f67-a2bf-0da0ef4b18dd",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=1, SID=4, VID=4"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:32:06.143935Z",
+    "error_code": "14"
+  },
+  {
+    "id": "ea31ad8c-cbb3-4e00-8c72-4cf87693c013",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=d42cba2a-5c3c-4eeb-ac64-b2f9922f42a0, PID=1, SID=3, VID=3"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T13:32:04.292576Z",
+    "error_code": "14"
+  },
+  {
+    "id": "24cc933a-aafd-4185-94b0-ba84c9981337",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_21",
+      "store_id": "FR6I",
+      "xcall_id": "0f29f67c-95a1-481a-b21b-e249af838f5d",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=0f29f67c-95a1-481a-b21b-e249af838f5d, PID=0, SID=8, VID=8"
+    },
+    "store_id": "FR6I",
+    "cart_id": "cart_21",
+    "created_at": "2024-07-15T10:56:26.887937Z",
+    "error_code": "14"
+  },
+  {
+    "id": "6de1f270-1821-486c-80d7-769fce1cbc03",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_21",
+      "store_id": "FR6I",
+      "xcall_id": "4fb08bb0-0da6-4505-b330-28f098008ea2",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=4fb08bb0-0da6-4505-b330-28f098008ea2, PID=0, SID=4, VID=4"
+    },
+    "store_id": "FR6I",
+    "cart_id": "cart_21",
+    "created_at": "2024-07-15T08:54:52.082527Z",
+    "error_code": "14"
+  },
+  {
+    "id": "1726b187-0ad4-4ce7-9526-8cccb1f0eebe",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_21",
+      "store_id": "FR6I",
+      "xcall_id": "4fb08bb0-0da6-4505-b330-28f098008ea2",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=4fb08bb0-0da6-4505-b330-28f098008ea2, PID=0, SID=3, VID=3"
+    },
+    "store_id": "FR6I",
+    "cart_id": "cart_21",
+    "created_at": "2024-07-15T08:54:12.052236Z",
+    "error_code": "14"
+  },
+  {
+    "id": "671dc470-cdf6-4700-a368-7617d90bb2d3",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "856856a2-7683-4785-8866-54364319fd23",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=856856a2-7683-4785-8866-54364319fd23, PID=2, SID=1, VID=6"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T06:17:18.002709Z",
+    "error_code": "14"
+  },
+  {
+    "id": "db945a8a-de82-4915-96ff-e52ab96b9967",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "856856a2-7683-4785-8866-54364319fd23",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=856856a2-7683-4785-8866-54364319fd23, PID=1, SID=3, VID=5"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T06:17:15.820987Z",
+    "error_code": "14"
+  },
+  {
+    "id": "32796278-500a-49ac-b12f-183b51dbc385",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "856856a2-7683-4785-8866-54364319fd23",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=856856a2-7683-4785-8866-54364319fd23, PID=1, SID=2, VID=4"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T06:17:13.655221Z",
+    "error_code": "14"
+  },
+  {
+    "id": "e759f7d0-0a08-43b0-bc75-9af5b29f0476",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "856856a2-7683-4785-8866-54364319fd23",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=856856a2-7683-4785-8866-54364319fd23, PID=1, SID=1, VID=3"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T06:17:11.842012Z",
+    "error_code": "14"
+  },
+  {
+    "id": "8bed2dd7-eee2-4b25-a917-6918c95be758",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "856856a2-7683-4785-8866-54364319fd23",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=856856a2-7683-4785-8866-54364319fd23, PID=0, SID=2, VID=2"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T06:17:01.665341Z",
+    "error_code": "14"
+  },
+  {
+    "id": "8a0abd8a-0407-4b10-80d1-a4a3c252a70b",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "U1RU",
+      "xcall_id": "856856a2-7683-4785-8866-54364319fd23",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=856856a2-7683-4785-8866-54364319fd23, PID=0, SID=1, VID=1"
+    },
+    "store_id": "U1RU",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T06:16:59.777973Z",
+    "error_code": "14"
+  },
+  {
+    "id": "43a32e43-1246-4689-b849-34508ebb8fd5",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "3213",
+      "xcall_id": "b6a640f7-4019-4852-8bf6-7864972bc5ce",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=b6a640f7-4019-4852-8bf6-7864972bc5ce, PID=9, SID=1, VID=10"
+    },
+    "store_id": "3213",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T05:36:44.422724Z",
+    "error_code": "14"
+  },
+  {
+    "id": "20d77bac-5ec5-4608-b525-a5e3807ebffd",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "3213",
+      "xcall_id": "b6a640f7-4019-4852-8bf6-7864972bc5ce",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=b6a640f7-4019-4852-8bf6-7864972bc5ce, PID=8, SID=1, VID=9"
+    },
+    "store_id": "3213",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T05:36:38.766279Z",
+    "error_code": "14"
+  },
+  {
+    "id": "90ff3de8-238c-4dff-883b-a6e4fe1b37d8",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "3213",
+      "xcall_id": "b6a640f7-4019-4852-8bf6-7864972bc5ce",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=b6a640f7-4019-4852-8bf6-7864972bc5ce, PID=7, SID=1, VID=8"
+    },
+    "store_id": "3213",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T05:36:31.988099Z",
+    "error_code": "14"
+  },
+  {
+    "id": "fa2f8e7d-ba2d-4b4d-bb93-10cb6e9e3d69",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "3213",
+      "xcall_id": "b6a640f7-4019-4852-8bf6-7864972bc5ce",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=b6a640f7-4019-4852-8bf6-7864972bc5ce, PID=6, SID=1, VID=7"
+    },
+    "store_id": "3213",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T05:36:24.200415Z",
+    "error_code": "14"
+  },
+  {
+    "id": "437e7019-78e1-4aba-acac-d320dd8433d6",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "3213",
+      "xcall_id": "b6a640f7-4019-4852-8bf6-7864972bc5ce",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=b6a640f7-4019-4852-8bf6-7864972bc5ce, PID=5, SID=1, VID=6"
+    },
+    "store_id": "3213",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T05:36:15.947253Z",
+    "error_code": "14"
+  },
+  {
+    "id": "26c7f1ff-82ab-476c-95dc-72cd43122fcc",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "3213",
+      "xcall_id": "b6a640f7-4019-4852-8bf6-7864972bc5ce",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=b6a640f7-4019-4852-8bf6-7864972bc5ce, PID=4, SID=1, VID=5"
+    },
+    "store_id": "3213",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T05:36:08.293226Z",
+    "error_code": "14"
+  },
+  {
+    "id": "d9d49984-a39c-4452-9033-4db1cf091a4a",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "3213",
+      "xcall_id": "b6a640f7-4019-4852-8bf6-7864972bc5ce",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=b6a640f7-4019-4852-8bf6-7864972bc5ce, PID=3, SID=1, VID=4"
+    },
+    "store_id": "3213",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T05:35:59.420346Z",
+    "error_code": "14"
+  },
+  {
+    "id": "55c0f24b-f6a8-4bed-87fd-3569a132fc51",
+    "source": "camera",
+    "info": {
+      "source": "camera",
+      "cart_id": "cart_03",
+      "store_id": "3213",
+      "xcall_id": "b6a640f7-4019-4852-8bf6-7864972bc5ce",
+      "board_role": "slave",
+      "error_code": 14,
+      "raspi_issue_id": "14",
+      "raspi_issue_msg": "Error! Captured 0 frames for XCallID=b6a640f7-4019-4852-8bf6-7864972bc5ce, PID=2, SID=1, VID=3"
+    },
+    "store_id": "3213",
+    "cart_id": "cart_03",
+    "created_at": "2024-07-15T05:35:48.761349Z",
+    "error_code": "14"
+  }
+]
